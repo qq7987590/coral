@@ -1,0 +1,11 @@
+#psycopg2
+flask
+flask-script
+flask-marshmallow
+schematics
+ruamel.yaml
+uuid
+flask-cors
+gunicorn
+gevent
+requests
