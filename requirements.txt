@@ -1,4 +1,3 @@
-#psycopg2
 flask
 flask-script
 flask-marshmallow
@@ -9,3 +8,4 @@ flask-cors
 gunicorn
 gevent
 requests
+mongoengine
